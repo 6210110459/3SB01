@@ -1,0 +1,13 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+# JARUNYA THANATAVEE
+### ID : 6210110459
+### Facuity of Engineering, Prince of Songkla University
+
+<p align="center">
+<img src="https://scontent.fkdt2-1.fna.fbcdn.net/v/t1.6435-9/155115575_3536946843094497_3964482338107918165_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFxlT-iiTT6jy4XgTfQ3DcUitZiOx4k2OSK1mI7HiTY5LKIwddlZ3o9GSJILjDZPS43Ai5jQzcHTj-6ueE4078L&_nc_ohc=meXZyAhG0UsAX-pKZx0&_nc_ht=scontent.fkdt2-1.fna&oh=00_AT9IyiMdq_tERlikdkqbUzG3UANINmJzuGwNA7q7A-ZGvg&oe=61EB1300" ait="profile" width="480" height="640"/>
+</p>
